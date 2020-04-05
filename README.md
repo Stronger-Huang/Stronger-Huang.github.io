@@ -1,6 +1,6 @@
-# Personal Blog by Stronger_Huang 
+# Personal Blog by Stronger_Huang  
 
-##  https://stronger-huang.github.io/
+##  https://stronger-huang.github.io/    *First made on April 5 2020*
 
 On this page, I try to share my logs, records on mistakes and any other things I want to say.
 
